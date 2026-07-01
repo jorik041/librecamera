@@ -1,0 +1,3 @@
+* l10n: Thêm bản dịch tiếng Indonesia
+
+* code: Sử dụng thông tin gói để lấy số phiên bản thay vì nhập thủ công

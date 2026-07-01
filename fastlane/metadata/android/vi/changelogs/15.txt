@@ -1,0 +1,6 @@
+* Mới: Thêm nút đặt lại zoom, cài đặt FPS video, phản hồi xúc giác, nén HEIC
+* Cải tiến: Giảm các hiện tượng giật lag khi chụp, tối ưu hóa quy trình hướng dẫn sử dụng, hành vi của thanh cài đặt và thanh trạng thái/điều hướng
+* Sửa lỗi: Sửa lỗi cho các phiên bản Android mới hơn, hỗ trợ biểu tượng Monochrome
+* l10n: Thêm nhiều ngôn ngữ (ar, ca, el, eo, hu, ia, is, ko, lv, ml, nl, nn, sat, sl, ta, zh_Hant)
+
+Xem chi tiết về tất cả các thay đổi trong thông báo phát hành trên GitHub!

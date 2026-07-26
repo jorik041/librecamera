@@ -1,0 +1,6 @@
+* yeni: Odak sıfırlama düğmesi, video FPS ayarları, dokunsal bildirim, HEIC sıkıştırması eklendi.
+* iyileştirme: Çekim takılmaları azaltıldı; başlangıç, ayarlar ve durum/gezinme çubuğu geliştirildi.
+* düzeltme: Yeni Android sürümleri düzeltildi, monokrom simge desteği geldi.
+* yerelleştirme: Çeşitli diller eklendi (ar, ca, el, eo, hu, ia, is, ko, lv, ml, nl, nn, sat, sl, ta, zh_Hant).
+
+Tüm değişiklikleri GitHub sürüm notlarında okuyabilirsiniz!
